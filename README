@@ -1,0 +1,5 @@
+# This project does the code for Chapter 2 of Ruby on Rails Tutorial by Michael Hartl
+
+The main items are a User component, a Micropost component,and a few validations.
+
+This project also uses an extended Gemfile based on Fig 10.42 of the tutorial.
